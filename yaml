@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit of WBGT NCL Toolkit"
+git remote add origin https://github.com/Vik-1/wbgt-ncl-toolkit.git
+git push -u origin main
